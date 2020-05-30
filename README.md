@@ -4,15 +4,15 @@ Created for the Coursera Data Science Specialization, this project folder contai
 
 1. The milestone report that shows the exploratory analysis for the SwiftKey project
 
-  * Rpubs:  http://rpubs.com/psiu/MilestoneReport
+  * Rpubs:  https://rpubs.com/tusharmahajan21/mileStoneReport
 
   * Github source:  https://github.com/psiu/Data-Science-Capstone/blob/master/Milestone%20Report.Rmd
   
 2. The Shiny App for Text Prediction
 
-  * App:  https://psiu.shinyapps.io/text/
+  * App:  https://tusharmahajan21.shinyapps.io/Predict/
   
-  * Pitch deck:  http://rpubs.com/psiu/text
+  * Pitch deck:  https://rpubs.com/tusharmahajan21/pres
 
 ***Project Goal / Problem to solve:***
 When using mobile devices, the capability of having a text prediction can help the user type words faster with greater accuracy. Two key metrics for this capability to be successful will involve accuracy and prediction speed.  With this challenge in mind, we have set out to build a fast and accurate prediction app that will predict the next word in a given sentence.
@@ -22,7 +22,6 @@ The "Next Word Prediction" app is our answer to the problem.
 Features:
 
 * ***Reactive*** The app processes the prediction reactively as the user types in words
-* ***3 predictions*** Our app provides three predictions to increase coverage of the possible desired words
 * ***Profanity filter*** To prevent any potential lawsuits, our product also censors profanity
 * ***Accurate and fast*** Using 50% of the training set data, we were able to achieve 25.1% prediction accuracy with a prediction speed of 0.11 second.
 
@@ -41,5 +40,3 @@ Our accuracy of 25.1% was achieved by using 50% of the training set but then cut
 * The results from this application was built in under one month's time out of a bedroom.  Considering the significant progress and the extensive potential for upgrades, a simple investment of $0.2M and a year's time will have the possible return of producing an prediction app with 40% accuracy.  This level of accuracy will rival the best prediction apps in the market.
 
 * Wouldn't cell phone manufacturers pay $0.01 for the best prediction app?  With 7.2 billion mobile devices in the world, the ROI would be $72M.  That would be a whopping 360x return on the initial investment!
-
-If you would like to be an Angel investor today, please send your paypal funds to psiu003@gmail.com :)
