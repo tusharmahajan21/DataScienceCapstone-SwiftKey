@@ -6,7 +6,7 @@ Created for the Coursera Data Science Specialization, this project folder contai
 
   * Rpubs:  https://rpubs.com/tusharmahajan21/mileStoneReport
 
-  * Github Repo for the same: https://github.com/tusharmahajan21/DataScienceCapstone-SwiftKey
+  * Github Repo: https://github.com/tusharmahajan21/DataScienceCapstone-SwiftKey
   
 2. The Shiny App for Text Prediction
 
