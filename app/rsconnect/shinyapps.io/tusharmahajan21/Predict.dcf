@@ -1,0 +1,12 @@
+name: Predict
+title: Predict
+username:
+account: tusharmahajan21
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2382122
+bundleId: 3208342
+url: https://tusharmahajan21.shinyapps.io/Predict/
+when: 1590857561.87499
+asMultiple: FALSE
+asStatic: FALSE
